@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      <p>
+      This is the repository for PixInsight scripts by setiastro.com.
+    </p>
+   </description>
+   <platform os="all" arch="noarch" version="1.8.8:1.9.9">
+      <package fileName="SetiAstroScripts12.30.2024" sha1="c6be2012022fb4139f2afd42f6291bba093f8392" type="script" releaseDate="20241230">
+         <title>
+        Frequency Separator V1.0
+      </title>
+         <description>
+            <p>
+Script to perform frequency seperation on your image, creating a High Frequency and Low Frequency image that can be processed seperately.  Script then allows for the combination of those HF and LF images back into a single combined image.
+		</p>
+         </description>
+      </package>
+   </platform>
+</xri>
+<Signature developerId="FranklinMarek" timestamp="2024-12-30T18:11:06.892Z" encoding="Base64">iuLjSPQglQZglnTK7D1Ba2KrCaE7gAveSZeREp1W4aNDpoxmtwUyA+C6sxOY61xE+6bTDdlRT/CTsJz2N6bADA==</Signature>
